@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
 #don't upgrade
-gem 'rails', '4.2.5'
+gem 'rails', '5.2.7.1'
 
 ruby '2.2.4'
 
 # Authentication gem
-gem 'devise'
+gem 'devise', '>= 4.4.2'
 
 # Bundle edge Rails instead:
 # gem 'rails', github: 'rails/rails'
@@ -52,8 +52,8 @@ end
 
 # Gems used only for assets and not required
 # in production environments by default.
-gem 'sass-rails'
-gem 'coffee-rails'
+gem 'sass-rails', '>= 5.0.5'
+gem 'coffee-rails', '>= 4.2.2'
 gem 'jquery-fileupload-rails'
 gem 'uglifier'
 gem 'turbolinks' # New for Rails 4.0
