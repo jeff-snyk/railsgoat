@@ -33,7 +33,7 @@ group :development, :mysql do
   gem 'binding_of_caller'
 end
 
-gem 'gauntlt'
+gem 'gauntlt', '>= 1.0.13'
 
 gem 'simplecov', :require => false, :group => :test
 
