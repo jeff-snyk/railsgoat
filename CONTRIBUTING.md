@@ -1,6 +1,6 @@
 # Ways to Contribute to RailsGoat
 
-Thanks for your interest on contributing to RailsGoat!
+Thanks for your interest on contributing to RailsGoat!!!
 Here are a few general guidelines on contributing and reporting
 bugs to RailsGoat that we ask you to take a look first.
 Notice that all of your interactions in the project are
